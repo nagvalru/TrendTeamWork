@@ -18,5 +18,6 @@ columns_df = pd.DataFrame(strategy_trades_df.columns, columns=['Column Names'])
 print(columns_df)
 
 # Внесли изменния в 11:20 компьютер win10
+# Внесли изменения в 11:29 на github
 
 
